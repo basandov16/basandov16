@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm currently pursuing my masters degree with a concentration in intelligent systems
+  - My thesis will be on reinforcement learning within mobile robotic exploration
+- My work focuses on AI development and I am knowledgeable in machine and deep learning topics, along with LLMs 😃
+- I am still fairly new to coding best practices, but looking to learn more!
+
 <!--
 **basandov16/basandov16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
